@@ -1,0 +1,30 @@
+.dinput{
+  display: flex;
+  margin-left: 50px;
+  
+}
+
+.mb-3{
+  height: 50px;
+}
+.dashboard{
+  background-color:bisque;
+  height: 100%;
+}
+#formBookHotel{
+  width: 25%;
+  height: 25px;
+  text-align: center;
+}
+
+.dashboard img{
+  box-sizing: border-box;
+  width:149px;
+  height:149px;
+  border-radius:50%;
+  margin:0;
+  border:5px solid #0082e6;
+  padding: 3px;
+  background-color: white;   
+} 
+
